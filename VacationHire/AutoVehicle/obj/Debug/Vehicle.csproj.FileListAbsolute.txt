@@ -8,6 +8,8 @@ D:\work\VacationHireInc\VacationHire\AutoVehicle\bin\Debug\DataManager.dll
 D:\work\VacationHireInc\VacationHire\AutoVehicle\bin\Debug\Repository.dll
 D:\work\VacationHireInc\VacationHire\AutoVehicle\bin\Debug\DataManager.pdb
 D:\work\VacationHireInc\VacationHire\AutoVehicle\bin\Debug\Repository.pdb
-D:\work\VacationHireInc\VacationHire\AutoVehicle\obj\Debug\Vehicle.csprojResolveAssemblyReference.cache
 D:\work\VacationHireInc\VacationHire\AutoVehicle\bin\Debug\CommonProduct.dll
 D:\work\VacationHireInc\VacationHire\AutoVehicle\bin\Debug\CommonProduct.pdb
+D:\work\VacationHireInc\VacationHire\AutoVehicle\obj\Debug\Vehicle.csprojAssemblyReference.cache
+D:\work\VacationHireInc\VacationHire\AutoVehicle\obj\Debug\Vehicle.csproj.CoreCompileInputs.cache
+D:\work\VacationHireInc\VacationHire\AutoVehicle\obj\Debug\Vehicle.csproj.CopyComplete

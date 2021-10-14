@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,7 +17,7 @@ namespace AutoVehicle.AutoVehicles
         static readonly object obj = new object();
         private AutoVehicleManager()
         {
-            mHandler = new AutovehicleHandler(new AutovehicleDataAccess());
+            mHandler = new AutovehicleHandler(new DataAccess());
         }
 
         public static AutoVehicleManager Instance()
@@ -35,7 +35,7 @@ namespace AutoVehicle.AutoVehicles
         public void ReturnCar(int id, int usedFuel)
         {
             var car = GetCar(id);
-            SetAvailability(car, 0);
+            SetAvailability(car, 1);
             SetDamageState(car);
             SetRemainingFuelTank(car, usedFuel);
         }
@@ -43,7 +43,7 @@ namespace AutoVehicle.AutoVehicles
         public void RentCar(int id)
         {
             var car = GetCar(id);
-            SetAvailability(car, 1);
+            SetAvailability(car, 0);
         }
 
         public void SetAvailability(CarData data, int state)

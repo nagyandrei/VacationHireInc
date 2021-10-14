@@ -90,8 +90,12 @@ D:\work\VacationHireInc\VacationHire\VacationHire\bin\BillManager.dll
 D:\work\VacationHireInc\VacationHire\VacationHire\bin\OrderManager.dll
 D:\work\VacationHireInc\VacationHire\VacationHire\bin\BillManager.pdb
 D:\work\VacationHireInc\VacationHire\VacationHire\bin\OrderManager.pdb
-D:\work\VacationHireInc\VacationHire\VacationHire\obj\Debug\VacationHire.csprojResolveAssemblyReference.cache
 D:\work\VacationHireInc\VacationHire\VacationHire\bin\CurrecyExchange.dll
 D:\work\VacationHireInc\VacationHire\VacationHire\bin\CurrecyExchange.pdb
 D:\work\VacationHireInc\VacationHire\VacationHire\bin\CommonProduct.dll
 D:\work\VacationHireInc\VacationHire\VacationHire\bin\CommonProduct.pdb
+D:\work\VacationHireInc\VacationHire\VacationHire\bin\BillManager.dll.config
+D:\work\VacationHireInc\VacationHire\VacationHire\bin\OrderManager.dll.config
+D:\work\VacationHireInc\VacationHire\VacationHire\obj\Debug\VacationHire.csprojAssemblyReference.cache
+D:\work\VacationHireInc\VacationHire\VacationHire\obj\Debug\VacationHire.csproj.CoreCompileInputs.cache
+D:\work\VacationHireInc\VacationHire\VacationHire\obj\Debug\VacationHire.csproj.CopyComplete

@@ -44,12 +44,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AutovehicleDataAccess.cs" />
     <Compile Include="AutovehicleHandler.cs" />
+    <Compile Include="DataAccess.cs" />
     <Compile Include="IAutoVehicleHandler.cs" />
     <Compile Include="IDataAccess.cs" />
     <Compile Include="IOrderHandler.cs" />
-    <Compile Include="OrderDataAccess.cs" />
     <Compile Include="OrderHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -6,4 +6,6 @@ D:\work\VacationHireInc\VacationHire\Repository\obj\Debug\Repository.dll
 D:\work\VacationHireInc\VacationHire\Repository\obj\Debug\Repository.pdb
 D:\work\VacationHireInc\VacationHire\Repository\bin\Debug\DataManager.dll
 D:\work\VacationHireInc\VacationHire\Repository\bin\Debug\DataManager.pdb
-D:\work\VacationHireInc\VacationHire\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\work\VacationHireInc\VacationHire\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+D:\work\VacationHireInc\VacationHire\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\work\VacationHireInc\VacationHire\Repository\obj\Debug\Repository.csproj.CopyComplete

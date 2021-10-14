@@ -1,4 +1,4 @@
-﻿
+
 
 @model IEnumerable<DataManager.OrderData>
 
@@ -30,9 +30,9 @@
         <th>
             @Html.DisplayNameFor(model => model.Days)
         </th>
-        @*<th>
+        <th>
             @Html.DisplayNameFor(model => model.ProductId)
-        </th>*@
+        </th>
         <th></th>
     </tr>
 
@@ -53,9 +53,9 @@
         <td>
             @Html.DisplayFor(modelItem => item.Days)
         </td>
-        @*<td>
+        <td>
             @Html.DisplayFor(modelItem => item.ProductId)
-        </td>*@
+        </td>
 
       @*@Html.ActionLink("ReturnOrder", "ReturnOrder", new { id = item.Id }) |
       @Html.Label("Is car damaged?") @Html.DropDownList("CarDamage",

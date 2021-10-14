@@ -1,4 +1,4 @@
-﻿using BillManager;
+using BillManager;
 using CommonProduct;
 using DataManager;
 using Order;
@@ -18,7 +18,7 @@ namespace Order
         static readonly object obj = new object();
         private OrdersManager()
         {
-            mHandler = new OrderHandler(new OrderDataAccess());
+            mHandler = new OrderHandler(new DataAccess());
         }
 
         public static OrdersManager Instance()

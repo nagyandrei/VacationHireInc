@@ -13,6 +13,9 @@ D:\work\VacationHireInc\VacationHire\OrderManager\bin\Debug\AutoVehicle.pdb
 D:\work\VacationHireInc\VacationHire\OrderManager\bin\Debug\BillManager.dll
 D:\work\VacationHireInc\VacationHire\OrderManager\bin\Debug\BillManager.pdb
 D:\work\VacationHireInc\VacationHire\OrderManager\bin\Debug\OrderManager.dll.config
-D:\work\VacationHireInc\VacationHire\OrderManager\obj\Debug\Order.csprojResolveAssemblyReference.cache
 D:\work\VacationHireInc\VacationHire\OrderManager\bin\Debug\CommonProduct.dll
 D:\work\VacationHireInc\VacationHire\OrderManager\bin\Debug\CommonProduct.pdb
+D:\work\VacationHireInc\VacationHire\OrderManager\bin\Debug\BillManager.dll.config
+D:\work\VacationHireInc\VacationHire\OrderManager\obj\Debug\Order.csprojAssemblyReference.cache
+D:\work\VacationHireInc\VacationHire\OrderManager\obj\Debug\Order.csproj.CoreCompileInputs.cache
+D:\work\VacationHireInc\VacationHire\OrderManager\obj\Debug\Order.csproj.CopyComplete
