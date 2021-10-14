@@ -1,0 +1,22 @@
+﻿@model DataManager.OrderData
+
+@{
+    ViewBag.Title = "Bill was printed";
+}
+
+<h2>FinalPriceCurrency</h2>
+
+<div>
+    <h4></h4>
+    <hr />
+    <dl class="dl-horizontal">
+        @{
+            var data = ViewData["Message"];
+        }
+        The order was returned!
+        You paid @data.ToString()
+    </dl>
+</div>
+<p>
+    
+</p>

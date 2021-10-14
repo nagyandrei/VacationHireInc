@@ -1,0 +1,46 @@
+@model CurrecyExchange.ExchangeRatesModel
+
+@{
+    ViewBag.Title = "ReturnOrder";
+}
+
+<h2>ReturnOrder</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @{
+            var data = ViewData["Message"];
+            }
+        </dt>
+        <dt>
+            @using (Html.BeginForm())
+            {
+                //var ratesModel = new CurrecyExchange.ExchangeRatesModel();
+                //var test = ratesModel.conversion_rates.GetType().GetProperties().Select(_ => _.Name).ToArray();
+            @Html.Label("Select curreny to pay") 
+            @Html.DropDownList("Currency",
+            new SelectList(new string[] { "RON", "USD", "EUR", "CAD", "AUD", "BIF", "XCD" }),
+            new { @class = "form-control", @onChange = "SelectedValue(this)" })
+            @Html.Label("FinalPrice","   "+@data.ToString()+" RON")
+                <dt>
+               <input type="hidden" name="FinalPrice" value="@data.ToString()" id="FinalPrice" />
+            <input type="submit" value="Pay" class="submit" />
+                    </dt>
+            }
+        </dt>
+
+        @*<dt>
+            <script type="text/javascript">
+                $('#SubmitName').click(function () {
+                    var currency = $('#Currency').val();
+                    var path = '@Url.Content("~/ControllerName/ActionName")' + "?currecnyId=" + currency
+                    $(this).attr("href", path);
+                });
+            </script>
+        </dt>*@
+
+    </dl>
+</div>
+

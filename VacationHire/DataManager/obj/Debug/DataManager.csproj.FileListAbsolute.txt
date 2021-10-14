@@ -1,0 +1,4 @@
+D:\work\VacationHireInc\VacationHire\DataManager\bin\Debug\DataManager.dll
+D:\work\VacationHireInc\VacationHire\DataManager\bin\Debug\DataManager.pdb
+D:\work\VacationHireInc\VacationHire\DataManager\obj\Debug\DataManager.dll
+D:\work\VacationHireInc\VacationHire\DataManager\obj\Debug\DataManager.pdb

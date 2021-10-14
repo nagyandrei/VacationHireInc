@@ -1,0 +1,17 @@
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\UnitTest.dll
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\UnitTest.pdb
+D:\work\VacationHireInc\VacationHire\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\work\VacationHireInc\VacationHire\UnitTest\obj\Debug\UnitTest.dll
+D:\work\VacationHireInc\VacationHire\UnitTest\obj\Debug\UnitTest.pdb
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\AutoVehicle.dll
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\CommonProduct.dll
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\DataManager.dll
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\Repository.dll
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\Dapper.dll
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\AutoVehicle.pdb
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\CommonProduct.pdb
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\DataManager.pdb
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\Repository.pdb
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\Dapper.xml
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\BillManager.dll
+D:\work\VacationHireInc\VacationHire\UnitTest\bin\Debug\BillManager.pdb

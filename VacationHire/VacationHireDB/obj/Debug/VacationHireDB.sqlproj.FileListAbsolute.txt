@@ -1,0 +1,9 @@
+D:\work\VacationHireInc\VacationHire\VacationHireDB\bin\Debug\VacationHireDB.dacpac
+D:\work\VacationHireInc\VacationHire\VacationHireDB\bin\Debug\VacationHireDB.dll
+D:\work\VacationHireInc\VacationHire\VacationHireDB\bin\Debug\VacationHireDB.pdb
+D:\work\VacationHireInc\VacationHire\VacationHireDB\obj\Debug\Model.xml
+D:\work\VacationHireInc\VacationHire\VacationHireDB\obj\Debug\refactor.xml
+D:\work\VacationHireInc\VacationHire\VacationHireDB\obj\Debug\postdeploy.sql
+D:\work\VacationHireInc\VacationHire\VacationHireDB\obj\Debug\predeploy.sql
+D:\work\VacationHireInc\VacationHire\VacationHireDB\obj\Debug\VacationHireDB.dll
+D:\work\VacationHireInc\VacationHire\VacationHireDB\obj\Debug\VacationHireDB.pdb

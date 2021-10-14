@@ -1,0 +1,4 @@
+D:\work\VacationHireInc\VacationHire\User\bin\Debug\User.dll
+D:\work\VacationHireInc\VacationHire\User\bin\Debug\User.pdb
+D:\work\VacationHireInc\VacationHire\User\obj\Debug\User.dll
+D:\work\VacationHireInc\VacationHire\User\obj\Debug\User.pdb

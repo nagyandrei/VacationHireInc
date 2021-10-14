@@ -1,0 +1,6 @@
+D:\work\VacationHireInc\VacationHire\CurrecyExchange\bin\Debug\CurrecyExchange.dll
+D:\work\VacationHireInc\VacationHire\CurrecyExchange\bin\Debug\CurrecyExchange.pdb
+D:\work\VacationHireInc\VacationHire\CurrecyExchange\obj\Debug\CurrecyExchange.dll
+D:\work\VacationHireInc\VacationHire\CurrecyExchange\obj\Debug\CurrecyExchange.pdb
+D:\work\VacationHireInc\VacationHire\CurrecyExchange\bin\Debug\Newtonsoft.Json.dll
+D:\work\VacationHireInc\VacationHire\CurrecyExchange\obj\Debug\CurrecyExchange.csprojResolveAssemblyReference.cache

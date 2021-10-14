@@ -1,0 +1,94 @@
+﻿
+
+@model IEnumerable<DataManager.OrderData>
+
+@{
+    ViewBag.Title = "OrderList";
+}
+
+<h2>OrderList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Days)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.ProductId)
+        </th>*@
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Phone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Type)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Days)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.ProductId)
+        </td>*@
+
+      @*@Html.ActionLink("ReturnOrder", "ReturnOrder", new { id = item.Id }) |
+      @Html.Label("Is car damaged?") @Html.DropDownList("CarDamage",
+              new SelectList(new int[] { 0, 1 }),
+              new { @class = "form-control", @onChange = "SelectedValue(this)" })
+      @Html.TextBox("CarFuel", 0)*@
+
+
+    @*@Html.DropDownList("ProductType",
+              new SelectList(Enum.GetValues(typeof(ProductType))),
+              new { @class = "form-control" })*@
+
+        
+        <td>
+    @using (Html.BeginForm())
+    {
+    <td>
+        @Html.Label("Is car damaged?") @Html.DropDownList("CarDamage",
+              new SelectList(new string[] { "No", "Yes" }),
+              new { @class = "form-control", @onChange = "SelectedValue(this)" })
+    </td>
+    <td>
+        Used fuel  
+        @Html.TextBox("CarFuel", 0)
+        <input type="hidden" name="id" value="@item.Id" />
+        <button name="return">Return</button>
+    </td>
+    }
+    </td>
+
+
+
+    </tr>
+}
+
+</table>
